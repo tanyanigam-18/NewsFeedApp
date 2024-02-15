@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4748CBD-DA4B-4760-8352-CE7E846BA32D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEE781E2-892E-46A4-BC6D-B0843482442D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFeedApp/ViewModel/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getTopHeadlines()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEE781E2-892E-46A4-BC6D-B0843482442D - fb61508638af9e8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;NewsFeedApp.ArticleModal&gt;) -&gt; () in NewsFeedApp.ArticleViewModel.getTopHeadlines() -&gt; ()"
+                  moduleName = "NewsFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/singsys/Developer/Tanya/NewsFeedApp/NewsFeedApp/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "BEE781E2-892E-46A4-BC6D-B0843482442D - 836ffdd093c24a8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsFeedApp.ArticleViewModel.getTopHeadlines() -&gt; ()"
+                  moduleName = "NewsFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/singsys/Developer/Tanya/NewsFeedApp/NewsFeedApp/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45BFED15-15A5-4E0B-B9EF-5DC9543D7289"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFeedApp/ViewModel/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "getTopHeadlines()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45BFED15-15A5-4E0B-B9EF-5DC9543D7289 - 40620c4ccedd66b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsFeedApp.ArticleViewModel.getEveryThing() -&gt; ()"
+                  moduleName = "NewsFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/singsys/Developer/Tanya/NewsFeedApp/NewsFeedApp/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "45BFED15-15A5-4E0B-B9EF-5DC9543D7289 - fb61508638af9fb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;NewsFeedApp.ArticleModal&gt;) -&gt; () in NewsFeedApp.ArticleViewModel.getTopHeadlines() -&gt; ()"
+                  moduleName = "NewsFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/singsys/Developer/Tanya/NewsFeedApp/NewsFeedApp/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "380C0C57-F485-469E-8C4E-582B2F2D44EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFeedApp/ViewModel/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "loadMore(currentItem:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "380C0C57-F485-469E-8C4E-582B2F2D44EF - e5dd44517d3f8ac8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsFeedApp.ArticleViewModel.loadMore(currentItem: NewsFeedApp.ArticleModal) -&gt; ()"
+                  moduleName = "NewsFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/singsys/Developer/Tanya/NewsFeedApp/NewsFeedApp/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "380C0C57-F485-469E-8C4E-582B2F2D44EF - e5dd44517d3f8ac8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsFeedApp.ArticleViewModel.loadMore(currentItem: NewsFeedApp.ArticleModal) -&gt; ()"
+                  moduleName = "NewsFeedApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/singsys/Developer/Tanya/NewsFeedApp/NewsFeedApp/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
